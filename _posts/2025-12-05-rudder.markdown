@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Rudder"
+date: 2025-12-05T22:08:44Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Temp assembled the vertical stab but couldn’t complete it until I get the replacement doubler. Set it aside and began prepping parts for the rudder. "
+reference: "7-1"
+time_spent: 21600.0
+---
+
+# Rudder
+
+Temp assembled the vertical stab but couldn’t complete it until I get the replacement doubler. Set it aside and began prepping parts for the rudder. 
+
+### Photos
+
+![](/assets/0B17F8A4-3C21-4D82-9FF3-B25B563A1D10.jpg)
+
+![](/assets/BC05C46B-11BD-4EC4-A3DA-6B1C7AA4C594.jpg)
+

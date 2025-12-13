@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Rudder"
+date: 2025-12-06T22:09:20Z
+categories: [Work Log]
+tags: []
+contributors: [Jacob_Pitzer Jeff_Peters]
+summary: "Completed parts prep, assembled rudder final drilled parts, disassembled and dimpled. Scuffed, cleaned and primed. Ready for final assembly. Jake helped with assembling ribs, deburring, and cleco skins while I final drilled."
+reference: ""
+time_spent: 28800.0
+---
+
+# Rudder
+
+Completed parts prep, assembled rudder final drilled parts, disassembled and dimpled. Scuffed, cleaned and primed. Ready for final assembly. Jake helped with assembling ribs, deburring, and cleco skins while I final drilled.
+
+### Participants
+- Jacob Pitzer (7200.0h)
+- Jeff Peters (28800.0h)
+
+### Photos
+
+![](/assets/06534B2A-9C17-4C73-8356-250B22B77BF7.jpg)
+
+![](/assets/C41BD910-055F-48EA-A497-E434A184E8CF.jpg)
+
+![](/assets/6422F8E1-41AF-471B-8889-2DD52D04F321.jpg)
+
+![](/assets/2C6B53C8-1E48-4D0B-8A9F-F2D87A5F40CE.jpg)
+

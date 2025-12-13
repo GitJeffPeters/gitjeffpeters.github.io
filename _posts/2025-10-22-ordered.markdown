@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Ordered!"
+date: 2025-10-23T00:46:21Z
+categories: [Preparation]
+tags: []
+contributors: []
+summary: "Placed order for the empennage today kicking off the build. Spent the last two days cleaning and organizing the workshop and building 5 workbenches. "
+reference: ""
+time_spent: 3600.0
+---
+
+# Ordered!
+
+Placed order for the empennage today kicking off the build. Spent the last two days cleaning and organizing the workshop and building 5 workbenches. 
+
