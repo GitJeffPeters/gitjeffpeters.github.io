@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vans RV-10 N25JP Build Log
+title: N25JP - Vans RV-10 Build Log
 email: ifly4fun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my builders log the construction of a Vans RV-10 aircraft.
