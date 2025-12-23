@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Rudder"
+date: 2025-12-14T20:41:18Z
+categories: [Work Log]
+tags: []
+contributors: [Autumn_Peters Jeff_Peters]
+summary: "Tank seal has cured enough to finish rudder. Remove angle brace, cleaned out holes and used cleaveland trailing edge dies to squeeze double flush rivets. Very pleased with how this turned out. Riveted skins to spar and rolled leading edge skins using the pipe method. Plans did not call out the leading edge was not to be dimpled and I dimpled it. Forums confirmed this is common error because the plans fail to call this out. Plans call for a regular rivet. Since mine are now dimpled, substituted a cs4-4 flush rivet. This should make a clean smooth surface even though it’ll be behind the VS. installed counterbalance weight and formed skins per plans. Riveted everything together and rudder is complete"
+reference: ""
+time_spent: 21600.0
+---
+
+# Rudder
+
+Tank seal has cured enough to finish rudder. Remove angle brace, cleaned out holes and used cleaveland trailing edge dies to squeeze double flush rivets. Very pleased with how this turned out. Riveted skins to spar and rolled leading edge skins using the pipe method. Plans did not call out the leading edge was not to be dimpled and I dimpled it. Forums confirmed this is common error because the plans fail to call this out. Plans call for a regular rivet. Since mine are now dimpled, substituted a cs4-4 flush rivet. This should make a clean smooth surface even though it’ll be behind the VS. installed counterbalance weight and formed skins per plans. Riveted everything together and rudder is complete
+
+### Participants
+- Autumn Peters (7200.0h)
+- Jeff Peters (21600.0h)
+
+### Photos
+
+![](/assets/FE916BE3-39C6-4B0B-BB84-38F4096B7AD7.jpg)
+
+![](/assets/25C6DA2C-CE26-4420-A0E7-A8F9720108A3.jpg)
+
+![](/assets/C15187FE-AA49-4538-8FA1-D69F5867DE5B.jpg)
+
+![](/assets/33B110DD-6F60-460F-9477-507686FB185A.jpg)
+
+![](/assets/65C3E049-C548-476F-B0A8-99DFCFED5984.jpg)
+

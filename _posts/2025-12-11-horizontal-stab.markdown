@@ -16,7 +16,7 @@ Began final assembly of horizontal stab. Riveted all sub assemblies and clecod t
 
 ### Photos
 
-![](/assets/BAA1A864-B993-4C4F-BE6A-6F51849CC0DF.jpg)
+![](/assets/F69FFE89-45D4-4669-A806-E0CF771C204D.jpg)
 
-![](/assets/7E6B0570-2D79-48F4-A1AA-5A9F9D59C821.jpg)
+![](/assets/7AF5B934-0DAA-44A1-B944-7E46FAB25C84.jpg)
 
