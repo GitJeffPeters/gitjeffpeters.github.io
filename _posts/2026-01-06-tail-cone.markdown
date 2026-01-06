@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tail cone"
+date: 2026-01-06T21:52:17Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Dimpled. Dimpled. And Dimpled some more. Still more dimpling to do."
+reference: ""
+time_spent: 21600.0
+---
+
+# Tail cone
+
+Dimpled. Dimpled. And Dimpled some more. Still more dimpling to do.
+

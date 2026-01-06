@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tailcone"
+date: 2025-12-28T21:54:03Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Began doing small work on the tail cone. Mainly went through and manufactured any parts that are built from stock, separating and demurred any multipart pieces and just overall prepping to begin actual work on the steps."
+reference: ""
+time_spent: 21600.0
+---
+
+# Tailcone
+
+Began doing small work on the tail cone. Mainly went through and manufactured any parts that are built from stock, separating and demurred any multipart pieces and just overall prepping to begin actual work on the steps.
+

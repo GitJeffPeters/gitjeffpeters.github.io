@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Tailcone"
+date: 2025-12-30T00:27:17Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Continued work on manufacturing small pieces to prep for tail cone assembly. Got to the point requiring saw horses for assemble and built those. Started assembling tail floor to bulkheads and match drilling stiffeners."
+reference: ""
+time_spent: 18000.0
+---
+
+# Tailcone
+
+Continued work on manufacturing small pieces to prep for tail cone assembly. Got to the point requiring saw horses for assemble and built those. Started assembling tail floor to bulkheads and match drilling stiffeners.
+
+### Photos
+
+![](/assets/B517F333-EFC2-4C5A-A156-DB438047E44E.jpg)
+

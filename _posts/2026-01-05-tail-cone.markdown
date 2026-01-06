@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tail Cone"
+date: 2026-01-05T21:53:50Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Disassembled tail cone for demurring, dimpling and priming."
+reference: ""
+time_spent: 7200.0
+---
+
+# Tail Cone
+
+Disassembled tail cone for demurring, dimpling and priming.
+
