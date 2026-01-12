@@ -16,7 +16,7 @@ Disassembled, deburred, scuffed, and primed assembly.
 
 ### Photos
 
-![](/assets/B096CC85-785A-4D2A-9EA2-F53E7660A5BC.jpg)
+![](/assets/07F764CE-95E6-4FEC-902D-1C53F6F530D5.jpg)
 
-![](/assets/00BA881B-D673-466E-8C99-C887B64494DA.jpg)
+![](/assets/6AF11162-F75D-447A-8576-CE4D5ACC24F6.jpg)
 

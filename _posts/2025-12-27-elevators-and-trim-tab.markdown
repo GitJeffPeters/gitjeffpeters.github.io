@@ -20,11 +20,11 @@ Started final assembly of right trim tab including foam ribs with tank seal and 
 
 ### Photos
 
-![](/assets/34B4EB6A-0301-45BF-88B2-7056A2573CC1.jpg)
+![](/assets/371941F0-AE51-49EC-B05B-056B3E9E1F63.jpg)
 
-![](/assets/F3023DA8-89B0-4093-8A05-7C395C8EEAB7.jpg)
+![](/assets/76B28D4C-D743-4E44-B8F3-C49DC14C84A7.jpg)
 
-![](/assets/BE486250-E1E7-4C55-BF03-1BF442B3060B.jpg)
+![](/assets/4E3269AE-4EB4-47FA-99CD-1386BA5366E1.jpg)
 
-![](/assets/D05F3814-A2B4-4379-B91D-008F3A0ACE9E.jpg)
+![](/assets/49577FAD-3F78-4C15-9B1A-008398AA6149.jpg)
 

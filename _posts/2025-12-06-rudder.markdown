@@ -7,7 +7,7 @@ tags: []
 contributors: [Jeff_Peters Jacob_Pitzer]
 summary: "Completed parts prep, assembled rudder final drilled parts, disassembled and dimpled. Scuffed, cleaned and primed. Ready for final assembly. Jake helped with assembling ribs, deburring, and cleco skins while I final drilled."
 reference: ""
-time_spent: 28800.0
+time_spent: 36000.0
 ---
 
 # Rudder
@@ -20,11 +20,11 @@ Completed parts prep, assembled rudder final drilled parts, disassembled and dim
 
 ### Photos
 
-![](/assets/609788C1-231C-424D-ABB3-4960369749FB.jpg)
+![](/assets/FFB56335-DB37-4F4F-B831-0229447664B7.jpg)
 
-![](/assets/5F8F6277-4D24-478E-9980-5693713C8A6C.jpg)
+![](/assets/710F8B6C-AB91-4C18-8BEF-1A78AF0775BF.jpg)
 
-![](/assets/5B075819-1DFE-44E3-9202-FBA77E6B74CD.jpg)
+![](/assets/1B0DC60E-DC93-4D3B-B640-0C8F5B026C30.jpg)
 
-![](/assets/32AD94FA-D5D8-40B0-A5EF-6E8200BBF80F.jpg)
+![](/assets/8265D927-FC34-4A1E-8D08-94E95AD8DEDD.jpg)
 

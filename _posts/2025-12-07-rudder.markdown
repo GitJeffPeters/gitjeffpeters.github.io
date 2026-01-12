@@ -7,7 +7,7 @@ tags: []
 contributors: [Amanda-Lee_Pitzer Jeff_Peters]
 summary: "Began final assembly. Riveted all stiffeners to skins and ribs. Built a jib to hold trailing edge straight. Assembled skins together and put tank seal on trailing edge. Clecod trailing edge and just blind rivets on inside stiffeners and strike plates. Amandalee helped holding the skin up while I riveted "
 reference: "7:9-12"
-time_spent: 21600.0
+time_spent: 25200.0
 ---
 
 # Rudder

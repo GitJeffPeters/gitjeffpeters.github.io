@@ -37,7 +37,7 @@ Discussions included:
 Overall, the project is proceeding at a good pace, and workmanship is well above average.  Don’t hesitate to contact me via email if you have questions or if you desire to schedule a visit.
 "
 reference: ""
-time_spent: 0.0
+time_spent: 7200.0
 ---
 
 # Technical Advisor Review 

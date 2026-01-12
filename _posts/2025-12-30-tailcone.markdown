@@ -7,7 +7,7 @@ tags: []
 contributors: [Jeff_Peters Autumn_Peters]
 summary: "Began rough assemble of tailbone and bulkheads. Match drilled 3 stiffeners and lined up three additional stiffeners with the right side skin to prepare for match drilling. Autumn assisted with match drilling and clecos"
 reference: ""
-time_spent: 5400.0
+time_spent: 9000.0
 ---
 
 # Tailcone
@@ -20,11 +20,11 @@ Began rough assemble of tailbone and bulkheads. Match drilled 3 stiffeners and l
 
 ### Photos
 
-![](/assets/7FADE90D-BFE0-405B-AF6E-4D2B219F90D1.jpg)
+![](/assets/AFE8C633-594D-4E52-89F8-0F69CAC2B303.jpg)
 
-![](/assets/430064D1-1889-4E80-BC01-E70676260026.jpg)
+![](/assets/75715451-D3F0-4A90-AED0-BFF3978103F6.jpg)
 
-![](/assets/A5AA8A8B-3DE6-4090-AFB1-3DDF47665766.jpg)
+![](/assets/3DC8C8B7-C9A9-46B1-8439-4668298D5C08.jpg)
 
-![](/assets/3642C60D-186D-4B5C-9190-D0EA2E3EC5C0.jpg)
+![](/assets/42FE844C-146B-4023-B244-3394BDC96824.jpg)
 

@@ -19,13 +19,13 @@ Picked up tail kit from ABF dock and began inventory. Completed unboxing and 80%
 
 ### Photos
 
-![](/assets/F70F2692-514E-4F89-BBFD-C1B59D27F595.jpg)
+![](/assets/4D4A9B5E-C42A-4195-85DF-ACE6DB175698.jpg)
 
-![](/assets/A086609C-3B0A-4C68-B91E-F9724C7A27F8.jpg)
+![](/assets/D12EF879-2E1F-45E3-A2B4-4E64829E3568.jpg)
 
-![](/assets/E3C31C43-F436-469F-AC8F-9D357083AF78.jpg)
+![](/assets/B5EE04AD-86DE-42BE-B14E-BA064223DB48.jpg)
 
-![](/assets/22F377EF-8D11-49B8-9532-6C040860F8A4.jpg)
+![](/assets/D172EF3A-31FD-4345-AA10-7AC0666F76EE.jpg)
 
-![](/assets/3EF75495-76D5-4B84-872F-B641C18A1230.jpg)
+![](/assets/BFE257AC-9D36-4582-A052-39CB2BFEC476.jpg)
 

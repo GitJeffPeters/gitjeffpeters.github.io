@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Tail Cone"
+date: 2026-01-11T21:54:30Z
+categories: [Work Log]
+tags: []
+contributors: [Jeff_Peters Amanda-Lee_Pitzer Ethan_Pitzer]
+summary: "Continued riveting tail cone skins to stiffeners, frames, and bulkheads. Had assistance from AmandaLee and Ethan"
+reference: ""
+time_spent: 36000.0
+---
+
+# Tail Cone
+
+Continued riveting tail cone skins to stiffeners, frames, and bulkheads. Had assistance from AmandaLee and Ethan
+
+### Participants
+- Jeff Peters (25200.0h)
+- Amanda-Lee Pitzer (5400.0h)
+- Ethan Pitzer (5400.0h)
+
+### Photos
+
+![](/assets/95D34089-D9C1-4524-A224-2D8E515CB5F6.jpg)
+

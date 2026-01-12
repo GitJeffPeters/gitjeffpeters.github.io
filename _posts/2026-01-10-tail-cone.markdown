@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Tail Cone"
+date: 2026-01-10T21:51:36Z
+categories: [Work Log]
+tags: []
+contributors: [Jeff_Peters Dan_Peters]
+summary: "Lots of progress today with Dan’s help. He had a long layover today and came by to pound a few rivets. In total we set approximately 480 rivets in the tail code skins and stiffeners."
+reference: ""
+time_spent: 43200.0
+---
+
+# Tail Cone
+
+Lots of progress today with Dan’s help. He had a long layover today and came by to pound a few rivets. In total we set approximately 480 rivets in the tail code skins and stiffeners.
+
+### Participants
+- Jeff Peters (21600.0h)
+- Dan Peters (21600.0h)
+
+### Photos
+
+![](/assets/728B0395-98AD-41E0-86CA-48FF0822467D.jpg)
+
+![](/assets/06DC0716-FAD2-4627-A812-85389E3C7DA9.jpg)
+
+![](/assets/5618F078-ACDD-4AE2-A2CF-230D867B94E7.jpg)
+
+![](/assets/AFC6B221-2384-4D64-83E6-F53D6FB838FB.jpg)
+
+![](/assets/A920DEDC-B9EB-4CA9-9A02-22D06C0BECC1.jpg)
+

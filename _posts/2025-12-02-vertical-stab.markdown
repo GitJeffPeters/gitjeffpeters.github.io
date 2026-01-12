@@ -16,11 +16,11 @@ Completed practice sheet metal kit with no issues. Having a little inconsistenci
 
 ### Photos
 
-![](/assets/524658FC-BE4E-4015-9FE8-10B776490B98.jpg)
+![](/assets/22D5B0AD-9BDE-42E7-AF12-166730535F5B.jpg)
 
-![](/assets/0F3504B2-2FE5-407C-910E-2DD81CEFED4A.jpg)
+![](/assets/FBF5A8DB-06A0-46DE-A053-26515FC65D86.jpg)
 
-![](/assets/F4F3C3D1-29E9-4E6F-923E-1FC4257E2B28.jpg)
+![](/assets/2E8635B3-D371-4895-99A5-95B69217D784.jpg)
 
-![](/assets/9CB53C87-7B47-49E7-AE3F-E96DC83E4A64.jpg)
+![](/assets/84E9E0D7-4ABB-4D4C-A5DB-71672DA7B297.jpg)
 

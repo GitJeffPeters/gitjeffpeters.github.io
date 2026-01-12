@@ -9,7 +9,7 @@ summary: "Finished rough fitting of all HS parts. Deburred, scuffed, countersink
 
 Another big milestone, got my N number reserved, she will officially be N25JP"
 reference: "8-8"
-time_spent: 25200.0
+time_spent: 32400.0
 ---
 
 # Horizontal stab
@@ -24,19 +24,19 @@ Another big milestone, got my N number reserved, she will officially be N25JP
 
 ### Photos
 
-![](/assets/14220EAB-E7A5-4391-B535-9BC94F3ACD08.jpg)
+![](/assets/5E0763DD-6456-4D30-8359-B0A09C5E4E80.jpg)
 
-![](/assets/406D2BEA-913A-4BCB-9C37-6BA9B5282E71.jpg)
+![](/assets/30A53592-C3D0-4677-8093-CCBD1CD0E885.jpg)
 
-![](/assets/7D0B15A7-AD93-49AD-BC18-C038288F7717.jpg)
+![](/assets/DB026DD2-1B93-4E48-8281-3AF2C8898F7A.jpg)
 
-![](/assets/2213BD19-74DA-418A-9D6C-6582EC7AA25B.jpg)
+![](/assets/049837EB-EE9F-4A8D-85A0-DAD681C48C26.jpg)
 
-![](/assets/52A44DC6-469C-4031-97F0-E3D716F33CCE.jpg)
+![](/assets/235A2347-031E-46D7-BD37-5C73C64C35CA.jpg)
 
-![](/assets/A6380246-A3B7-41DA-9461-D7E5862D6F16.jpg)
+![](/assets/37EB206C-FC16-499D-B13F-CD095BD9B75C.jpg)
 
-![](/assets/76D28FDD-4CD9-4828-AB80-9E650CCCDDC8.jpg)
+![](/assets/916AC420-F15C-4256-A0BD-A0A1B8D5A7C5.jpg)
 
-![](/assets/B340D53A-B954-4FA5-BB9C-C32BD53271EA.jpg)
+![](/assets/FA6C2EB9-FDB2-4D65-A0E5-99F1B32CBEDC.jpg)
 
