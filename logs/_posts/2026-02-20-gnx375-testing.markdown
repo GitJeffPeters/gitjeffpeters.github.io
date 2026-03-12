@@ -1,0 +1,19 @@
+---
+layout: post
+title: "GNX375 Testing"
+date: 2026-02-20T21:12:22Z
+categories: [Work Log]
+tags: []
+contributors: [Jeff_Peters]
+summary: "Purchased a “new” GNX375 from a forum member with antenna. Bench tested and updated software."
+reference: ""
+time_spent: 7200.0
+---
+
+# GNX375 Testing
+
+Purchased a “new” GNX375 from a forum member with antenna. Bench tested and updated software.
+
+### Participants
+- Jeff Peters (0.0h)
+
