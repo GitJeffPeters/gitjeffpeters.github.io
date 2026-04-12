@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Left Tank"
+date: 2026-03-31T23:49:11Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Completed j-stiffener and all ribs along with tank bracket on left tank. Installed vent line. Left to cure for water test."
+reference: ""
+time_spent: 23400.0
+---
+
+# Left Tank
+
+Completed j-stiffener and all ribs along with tank bracket on left tank. Installed vent line. Left to cure for water test.
+
+### Photos
+
+![](/assets/998230C3-11A7-4062-972B-2C6CFEF409CD.jpg)
+
+![](/assets/A754B656-1BA1-40A6-A0FB-B46D1DBCEFA4.jpg)
+

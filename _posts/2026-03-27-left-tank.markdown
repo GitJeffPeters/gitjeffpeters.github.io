@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Left tank"
+date: 2026-03-27T21:02:00Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Completed deburring, edge finishing, and dimpling of left tank. Cleaned and prepped for final assembly and began installing stiffeners. Also completed drain flange, interior rib hardware, and added the additional flange for potential fuel return per RV14 instructions. "
+reference: ""
+time_spent: 21600.0
+---
+
+# Left tank
+
+Completed deburring, edge finishing, and dimpling of left tank. Cleaned and prepped for final assembly and began installing stiffeners. Also completed drain flange, interior rib hardware, and added the additional flange for potential fuel return per RV14 instructions. 
+
+### Photos
+
+![](/assets/0E4A48E6-1119-4524-939A-8F128E26D1AB.jpg)
+
