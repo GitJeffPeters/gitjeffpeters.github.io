@@ -20,7 +20,7 @@ Ordered Dynon heated pitot and drilled holes in left wing ribs for conduit runs.
 
 ### Photos
 
-![](/assets/823722FC-4D5F-4F8C-ABD5-1556B1A9302A.jpg)
+![](/assets/22BE454F-61F1-4E74-BC04-F83DE737B508.jpg)
 
-![](/assets/9737769E-693E-425D-BF45-B86771235BBA.jpg)
+![](/assets/AEE0EE50-6C3F-478C-B78E-94125D63E21B.jpg)
 

@@ -16,5 +16,5 @@ Completely dry run assembly of left elevator. Dimpling, countersinking and scuff
 
 ### Photos
 
-![](/assets/B89472F4-0760-47D6-8C65-F7021BFA3045.jpg)
+![](/assets/49399F82-2E03-4562-99C3-6DCB4401375E.jpg)
 

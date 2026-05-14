@@ -20,7 +20,7 @@ Began flap assembly and doing both flaps together since the mirroring of parts i
 
 ### Photos
 
-![](/assets/77A38B09-A94B-49F6-9D82-1EFDAE42F823.jpg)
+![](/assets/598A0652-2B6C-4C4E-94B8-6F2FCB725AAC.jpg)
 
-![](/assets/ED7BD0E6-33B6-4883-8D60-B3F2CCCA17FB.jpg)
+![](/assets/DC8F5B9F-9CCD-4FE5-95B2-796599BA5678.jpg)
 

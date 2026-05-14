@@ -20,7 +20,7 @@ Cut out foam ribs for trailing elevator edge and trim tabs. Final sized lead cou
 
 ### Photos
 
-![](/assets/804F3399-E4EE-4A20-A9A2-6B7DD7DD9F44.jpg)
+![](/assets/99DDAD7E-66D7-412C-AEED-962C83FD9FD1.jpg)
 
-![](/assets/294693C2-4B5F-49BB-92F7-FE017D31453D.jpg)
+![](/assets/D678104A-F497-4C50-832A-64BCC3FEE25B.jpg)
 

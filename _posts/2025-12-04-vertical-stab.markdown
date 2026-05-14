@@ -6,7 +6,7 @@ categories: [Work Log]
 tags: []
 contributors: []
 summary: "Disassembled, deburred, scuffed, and primed assembly. "
-reference: ""
+reference: "6:6"
 time_spent: 18000.0
 ---
 
@@ -16,7 +16,7 @@ Disassembled, deburred, scuffed, and primed assembly.
 
 ### Photos
 
-![](/assets/07F764CE-95E6-4FEC-902D-1C53F6F530D5.jpg)
+![](/assets/4ED60C01-E25B-4230-AD06-42BB3B1194B2.jpg)
 
-![](/assets/6AF11162-F75D-447A-8576-CE4D5ACC24F6.jpg)
+![](/assets/781B4233-4017-479A-A69D-36E07F2A06B5.jpg)
 

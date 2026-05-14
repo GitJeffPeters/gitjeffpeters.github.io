@@ -16,5 +16,5 @@ Completed scuffing of right wing ribs and primed all wing ribs.
 
 ### Photos
 
-![](/assets/374D4186-F825-4A0A-8566-6F6AC3B74583.jpg)
+![](/assets/D981374D-F7EA-4167-87C8-3D962FC8A0EF.jpg)
 

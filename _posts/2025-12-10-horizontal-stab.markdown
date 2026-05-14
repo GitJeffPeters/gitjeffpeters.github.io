@@ -8,7 +8,7 @@ contributors: [Autumn_Peters Jeff_Peters]
 summary: "Finished rough fitting of all HS parts. Deburred, scuffed, countersink and dimpled all ribs spars and skins. Autumn helped scuff all ribs and dimpled rib flanges. Accidentally dimpled a new hole in the skin. Was able to flatten it out, ordered 3M structural epoxy to fill in the hole and will then dimple the correct hole. 
 
 Another big milestone, got my N number reserved, she will officially be N25JP"
-reference: "8-8"
+reference: "8:8-11"
 time_spent: 32400.0
 ---
 
@@ -24,19 +24,19 @@ Another big milestone, got my N number reserved, she will officially be N25JP
 
 ### Photos
 
-![](/assets/5E0763DD-6456-4D30-8359-B0A09C5E4E80.jpg)
+![](/assets/CF5530F3-147D-4D42-B7AF-585F96C6E8A1.jpg)
 
-![](/assets/30A53592-C3D0-4677-8093-CCBD1CD0E885.jpg)
+![](/assets/35F052A1-6655-4A89-AC38-AA4554E95FE7.jpg)
 
-![](/assets/DB026DD2-1B93-4E48-8281-3AF2C8898F7A.jpg)
+![](/assets/4BBBF09F-B295-48AC-ABFB-ADB83E094CC1.jpg)
 
-![](/assets/049837EB-EE9F-4A8D-85A0-DAD681C48C26.jpg)
+![](/assets/3E096C9A-911F-4DC1-852C-673867ED6C6B.jpg)
 
-![](/assets/235A2347-031E-46D7-BD37-5C73C64C35CA.jpg)
+![](/assets/BAFCDB54-F5C6-4174-98A6-5DDB617723F1.jpg)
 
-![](/assets/37EB206C-FC16-499D-B13F-CD095BD9B75C.jpg)
+![](/assets/531EA38B-C642-404E-A5C3-B86F83D179D5.jpg)
 
-![](/assets/916AC420-F15C-4256-A0BD-A0A1B8D5A7C5.jpg)
+![](/assets/B011A6E0-0248-46A3-AE9B-499CD4C63DA2.jpg)
 
-![](/assets/FA6C2EB9-FDB2-4D65-A0E5-99F1B32CBEDC.jpg)
+![](/assets/C01F1787-B401-4D47-BAF3-CFF7F0479FA6.jpg)
 

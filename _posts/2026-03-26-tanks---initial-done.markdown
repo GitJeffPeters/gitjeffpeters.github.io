@@ -16,9 +16,9 @@ Finished initial fitting and match drilling of both tanks. Disassembled and bega
 
 ### Photos
 
-![](/assets/354397DA-C7B9-42AC-AD36-87C77412514D.jpg)
+![](/assets/5365310F-0237-4AAD-8A8C-52C0CD2D3CCC.jpg)
 
-![](/assets/DDBC4B23-360A-4823-A442-7A26228BD4CB.jpg)
+![](/assets/89F899EE-4B93-4890-B89C-44B93C267172.jpg)
 
-![](/assets/EEA9D4F8-C820-4787-A166-B30E0557642D.jpg)
+![](/assets/EF6A328B-1E39-443C-91C9-FB5B68C23C2B.jpg)
 

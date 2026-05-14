@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Left Flap"
+date: 2026-03-13T23:40:42Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Final assembly of left flap complete with all riveting done. Applied tank sealant to trailing edge and setup flap to cure while heading to England."
+reference: ""
+time_spent: 28800.0
+---
+
+# Left Flap
+
+Final assembly of left flap complete with all riveting done. Applied tank sealant to trailing edge and setup flap to cure while heading to England.
+

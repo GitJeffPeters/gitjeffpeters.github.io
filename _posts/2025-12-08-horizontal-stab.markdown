@@ -6,7 +6,7 @@ categories: [Work Log]
 tags: []
 contributors: []
 summary: "Deburred forward spar and worked on stiffener. Manufactured brackets from angle for the aft spar."
-reference: ""
+reference: "8:1-4"
 time_spent: 21600.0
 ---
 

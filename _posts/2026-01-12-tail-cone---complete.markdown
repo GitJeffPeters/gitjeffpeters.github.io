@@ -20,13 +20,13 @@ Completed tail cone final assembly with the exception of the two top skins. I’
 
 ### Photos
 
-![](/assets/262F9D9A-EF27-4112-962E-5DEE79591F52.jpg)
+![](/assets/B941DA0D-EA94-46EB-A969-DF5A14B16653.jpg)
 
-![](/assets/F7E5B54F-0B79-4100-A73C-1B9C9684CC12.jpg)
+![](/assets/8FB1D7CF-1357-451F-B915-3A344D227CA2.jpg)
 
-![](/assets/C0C33FD9-3530-4CBE-8298-0CA056C29411.jpg)
+![](/assets/4170ABE3-6BC2-43F2-8F1B-BD3729F7B211.jpg)
 
-![](/assets/0D7A5C31-64E7-40AB-BAAD-F9B997863EE4.jpg)
+![](/assets/026A919E-DD85-4694-AA76-DC4E7FE43F7A.jpg)
 
-![](/assets/7290B34E-4996-47DD-BF6D-A48A209AE0DB.jpg)
+![](/assets/186546B3-067D-4E9B-8281-3A72E761C00D.jpg)
 

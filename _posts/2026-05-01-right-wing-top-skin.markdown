@@ -21,9 +21,9 @@ Had a few helpers today so got to wrap up the top skin riveting on the right win
 
 ### Photos
 
-![](/assets/D9942AFF-D0AE-4F72-A6BD-7296E789E514.jpg)
+![](/assets/A034FCC7-B503-42AD-96E5-4A54C81E5A74.jpg)
 
-![](/assets/4387C817-B823-40B6-AD74-8E63841D2781.jpg)
+![](/assets/85F635AF-EC44-4024-BB76-34580E8D3F66.jpg)
 
-![](/assets/3339FA72-CEC8-4559-A3D9-7FA0B759B995.jpg)
+![](/assets/06AD4BE0-6565-4C9B-A5A3-125C21236FA6.jpg)
 

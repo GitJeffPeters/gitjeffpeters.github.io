@@ -16,7 +16,7 @@ Finished all work on section 13 for the Left Wing Spar. Set aside to work on the
 
 ### Photos
 
-![](/assets/7D33F1B4-2A59-4F39-BB86-A22678468189.jpg)
+![](/assets/44A28FBD-5AEF-41CF-B3B0-5D11DC5A0D8E.jpg)
 
-![](/assets/17AB1442-E77B-4002-992C-BFD6A352CBC2.jpg)
+![](/assets/77C7C1DF-FADD-4201-8976-CFB952CF4114.jpg)
 

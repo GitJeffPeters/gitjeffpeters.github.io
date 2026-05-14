@@ -20,13 +20,13 @@ After completing the top skin riveting yesterday, I wrapped a few odds and ends 
 
 ### Photos
 
-![](/assets/43B12653-C89B-4FBB-829E-57D63C4EC34B.jpg)
+![](/assets/6891F1D0-5855-4200-9120-E358231D2A77.jpg)
 
-![](/assets/0610FB4C-C2C7-49ED-AB70-59116343634A.jpg)
+![](/assets/5DD4ED53-B720-4449-A020-ADA7507C0A68.jpg)
 
-![](/assets/B15A2970-C150-48FE-A144-6E512305022D.jpg)
+![](/assets/F0181BA3-50EF-4A5E-8EA1-B65AEBCDD49C.jpg)
 
-![](/assets/487439DA-9DDA-4985-AE58-402DF5FBF226.jpg)
+![](/assets/42395EC8-50C0-4900-BFED-E0F29EBA1A0D.jpg)
 
-![](/assets/9DD3C7B1-BE2C-4A48-8D97-39AD436E3C87.jpg)
+![](/assets/E796F2FE-7976-4B08-929B-3F2E74D67A01.jpg)
 

@@ -6,7 +6,7 @@ categories: [Work Log]
 tags: []
 contributors: [Ethan_Pitzer Jeff_Peters]
 summary: "Deburred spars and began cleaning up ribs. Built cradles to hold assembly. Ethan helped debur ribs and cradle. Missing parts from kit arrived so I should be able to move forward with rudder once tanks seal dries. "
-reference: "8-7"
+reference: "8:6-7"
 time_spent: 21600.0
 ---
 

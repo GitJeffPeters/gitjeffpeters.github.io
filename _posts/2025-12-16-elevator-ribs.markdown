@@ -16,5 +16,5 @@ Separated 16 elevator ribs, deburred, and smoothed edges.
 
 ### Photos
 
-![](/assets/E5EE44CD-8DAB-4AFA-AD6C-0303B8916E79.jpg)
+![](/assets/6FA494C9-284F-4E5B-ADAF-EFD99EAB0627.jpg)
 
