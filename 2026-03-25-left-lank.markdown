@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Left Lank"
+date: 2026-03-25T22:57:00Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Began initial assembly and match drilling of left tank."
+reference: ""
+time_spent: 21600.0
+---
+
+# Left Lank
+
+Began initial assembly and match drilling of left tank.
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Tail cone"
+date: 2026-01-07T21:28:45Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Completed dimpling of all parts. Began scuffing, deburring, and edge cleaning of all parts."
+reference: ""
+time_spent: 25200.0
+---
+
+# Tail cone
+
+Completed dimpling of all parts. Began scuffing, deburring, and edge cleaning of all parts.
+

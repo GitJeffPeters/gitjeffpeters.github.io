@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Section 29, 30, 31, 42"
+date: 2026-07-19T20:54:57Z
+categories: [Work Log]
+tags: []
+contributors: []
+summary: "Completed more work on Section 29 up to not having the longhorn is preventing further work in this section so decided to jump around and complete so isolated projects not relying on other parts.
+
+Completed section 30 - Step installation, left out final bolt until side skins are done.
+
+Started section 31 assembling the upper forward fuse for the instrument panel. Will need to hold off on completing this until longeron is in and panel is in.
+
+Completed section 42 - Rear seats. Figured this is an easy time filler and completed the seat backs for the rear part of the plane. Depending on which interior I end up with, I may or may not use these. "
+reference: ""
+time_spent: 57600.0
+---
+
+# Section 29, 30, 31, 42
+
+Completed more work on Section 29 up to not having the longhorn is preventing further work in this section so decided to jump around and complete so isolated projects not relying on other parts.
+
+Completed section 30 - Step installation, left out final bolt until side skins are done.
+
+Started section 31 assembling the upper forward fuse for the instrument panel. Will need to hold off on completing this until longeron is in and panel is in.
+
+Completed section 42 - Rear seats. Figured this is an easy time filler and completed the seat backs for the rear part of the plane. Depending on which interior I end up with, I may or may not use these. 
+
+### Photos
+
+![](/assets/7C47C821-83B5-41CD-B244-0CA66CFA1B46.jpg)
+
+![](/assets/7A60E58D-23AF-4611-9B8C-0EA5F28226EE.jpg)
+
+![](/assets/657F0D81-A377-4279-B9E5-5B2038454009.jpg)
+
+![](/assets/D72152B9-4A28-45A3-88E6-F9AA2ED6591E.jpg)
+
